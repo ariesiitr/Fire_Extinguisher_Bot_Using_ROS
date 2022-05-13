@@ -133,3 +133,13 @@ Open the New terminal and the node file to specify xy coordinate and yaw
 	$ rosrun turtlebot3_slam navigate_goal.py 
 
 
+TEAM MEMBERS
+
+1) Lakshit Sharma
+2) Dev Raj Jain	
+3) Krishn Bhushan Singh	
+4) Rishabh Dubey
+
+OUR MENTOR	
+Baldeep Singh Sir
+
